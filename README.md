@@ -1,8 +1,9 @@
-### Welcome to my GitHub profile 👋
-
-I'm currently a programmer in the army, finishing in the next few months.\
+# Welcome to my GitHub profile 👋
 \
-I have experience programming in C, C++, and JS\
+My name is Aryeh and I'm currently a programmer in the army, finishing up in the next few months.
+
+### Skills
+I have experience programming in C, C++, and JS.\
 Currently learning Python and Go in my spare time:) 
 
 <!--
