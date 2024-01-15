@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
+
+I'm currently a programmer in the army, finishing in the next few months.\
+\
+I have experience programming in C, C++, and JS\
+Currently learning Python and Go in my spare time:) 
 
 <!--
 **Axlerod21/Axlerod21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
